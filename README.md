@@ -1,27 +1,16 @@
-# front-end
+# 租房信息网站
 
-> A Vue.js project
+> 前端使用 Vueq 全家桶，后端使用 Node 的 Koa 框架，数据库使用 MongoDB 和 Mongoose 框架
 
-## Build Setup
+## 说明
 
-``` bash
-# install dependencies
-npm install
+```bash
+# 启动
+项目需要连接数据库和启动根目录下的server服务器
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 静态页面预览
+https://gulugulu7.github.io/hizu-front-end/
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+# 视频预览
+***
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
