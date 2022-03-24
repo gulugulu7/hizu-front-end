@@ -9,7 +9,8 @@
 项目需要连接数据库和启动根目录下的server服务器
 
 # 静态页面预览
-[http://vuejs-templates.github.io/webpack/](#http://vuejs-templates.github.io/webpack/)
+[http://vuejs-templates.github.io/webpack/](http://vuejs-templates.github.io/webpack/)
+[Create React App](https://github.com/facebook/create-react-app)
 
 # 视频预览
 npm run build
