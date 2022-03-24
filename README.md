@@ -14,4 +14,4 @@
 
 ### 视频预览
 
-npm run build
+[https://www.bilibili.com/video/BV16U4y1d7Qj?spm_id_from=333.337.search-card.all.click](https://www.bilibili.com/video/BV16U4y1d7Qj?spm_id_from=333.337.search-card.all.click)
