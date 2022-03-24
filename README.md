@@ -4,25 +4,14 @@
 
 ## 说明
 
-```bash
-# 启动
-项目需要连接数据库和启动根目录下的server服务器
+### 启动
 
-# 静态页面预览
+项目需要连接数据库和启动根目录下的 server 服务器
+
+### 静态页面预览
+
 [http://vuejs-templates.github.io/webpack/](http://vuejs-templates.github.io/webpack/)
-[Create React App](https://github.com/facebook/create-react-app)
 
-# 视频预览
+### 视频预览
+
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
