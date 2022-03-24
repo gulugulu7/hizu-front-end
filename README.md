@@ -9,8 +9,8 @@
 项目需要连接数据库和启动根目录下的server服务器
 
 # 静态页面预览
-https://gulugulu7.github.io/hizu-front-end/
+[https://gulugulu7.github.io/hizu-front-end/](https://gulugulu7.github.io/hizu-front-end/)
 
 # 视频预览
-***
+npm run build
 ```
