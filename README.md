@@ -1,6 +1,6 @@
 # 租房信息网站
 
-> 前端使用 Vueq 全家桶，后端使用 Node 的 Koa 框架，数据库使用 MongoDB 和 Mongoose 框架
+> 前端使用 Vue 全家桶，后端使用 Node 的 Koa 框架，数据库使用 MongoDB 和 Mongoose 框架
 
 ## 说明
 
