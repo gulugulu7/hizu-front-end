@@ -10,7 +10,7 @@
 
 ### 静态页面预览
 
-[http://vuejs-templates.github.io/webpack/](http://vuejs-templates.github.io/webpack/)
+[https://gulugulu7.github.io/hizu-front-end/](https://gulugulu7.github.io/hizu-front-end/)
 
 ### 视频预览
 
